@@ -1,0 +1,83 @@
+
+/* Estilos para el encabezado */
+header {
+    background-color: #a8d7e4;
+    padding: 20px;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #2bcee3;
+}
+
+.profile h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #e74141;
+}
+
+main {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #f3cb3a;
+}
+
+.project h3 {
+    margin-top: 10px;
+}
+
+.project p {
+    color: #fea0e6;
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #f4b0e4;
+    color: #da0ab0;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset ="UTF-8">
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <header>
+        <div class="profile">
+            <img src="C:\Users\PILARES\Pictures\Saved Pictures\istock-604372058-1_97074090_230601162045_800x800.jpg"
+    alt="C:\Users\PILARES\Documents\GitHub\mariposa,png>
+            <h2>Tu Nombre</h2>
+            <h3>Especialización</h3>
+        </div>
+
+    </header>
+
+    <main>
+
+        
